@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lan</h1>
-<!-- h3 align="center">Experienced back-end developer specializing in C# and database management.</h3 -->
+<!-- h3 align="center">Experienced back-end developer specialising in C# and database management.</h3 -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=700&center=true&random=false&width=1200&lines=Experienced+back-end+developer+specializing+in+C%23+and+database+management." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=700&center=true&random=false&width=1200&lines=Experienced+back-end+developer+specialising+in+C%23+and+database+management." alt="Typing SVG" />
 </a>
 
 <!-- h3 align="left">Connect with me:</h3 -->
